@@ -23,7 +23,7 @@ import time
 import json
 
 client_id = '발급 받은 Cleint ID' # 발급 받은 Cleint ID
-client_secret = '발급 받은 Cleint PW'
+client_secret = '발급 받은 Cleint PW' #발급 받은 Cleint PW
 
 #URL 접속을 요청하고 응답을 받아서 반환
 def getRequestUrl(url):
